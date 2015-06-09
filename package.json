@@ -12,5 +12,18 @@
     "node-plugin"
   ],
   "author": "OSN64",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSN64/freezing-lana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OSN64/freezing-lana/issues"
+  },
+  "homepage": "https://github.com/OSN64/freezing-lana#readme",
+  "dependencies": {
+    "dbus-native": "^0.2.0",
+    "lodash": "^3.9.3",
+    "plug": "^0.1.1"
+  }
 }
