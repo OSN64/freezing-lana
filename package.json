@@ -1,0 +1,16 @@
+{
+  "name": "freezing-lana",
+  "version": "0.0.0",
+  "description": "Desktop Application Event Notifier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --debug"
+  },
+  "keywords": [
+    "node",
+    "notif",
+    "node-plugin"
+  ],
+  "author": "OSN64",
+  "license": "MIT"
+}
